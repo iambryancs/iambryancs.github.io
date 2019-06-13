@@ -7,7 +7,7 @@
 	.info_left,.info_right { width: 47%; }
 	.base { width: calc(100% - 190px); width: -moz-calc(100% - 190px); width: -webkit-calc(100% - 190px); }
 	.base span { position: absolute; right: 100px; top: 27px; }
-	.info_timeline dl dt { width: 200px; }
+	/* .info_timeline dl dt { width: 200px; } */
 	.info_timeline dl dd { width: calc(100% - 200px); width: -moz-calc(100% - 200px); width: -webkit-calc(100% - 200px); }
 	.footer a { float: right; }
 	.tip_avatar_con { background: url('../images/avatar.jpg') no-repeat 20% center; }
